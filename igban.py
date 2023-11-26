@@ -8,10 +8,10 @@ def report_user(session, user_id):
 
 if __name__ == "__main__":
     # Replace 'your_username' and 'your_password' with your actual Instagram credentials
-    your_username = 'your_username'
-    your_password = 'your_password'
+    your_username = 'danky2213'
+    your_password = 'samiccc'
     
-    user_id_to_report = '123456789'  # Replace '123456789' with the user ID of the profile you want to report
+    user_id_to_report = '@blueberry.manu'  # Replace '123456789' with the user ID of the profile you want to report
     num_reports = 100
 
     session = login(your_username, your_password)
