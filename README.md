@@ -5,9 +5,9 @@ SINGLE AUTO REPORT VERSION
 
 FOR BULK AUTO REPORT TOOL OR DEALS 
 
-MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE > https://t.me/krishnasachan
 
-![ig](https://github.com/genius-codes/instagram-report-bot/assets/125784563/edc82675-89b5-4d97-aaec-5b1ad844711e)
+![ig](https://github.com/krishna-codes/instagram-report-bot/assets/125784563/edc82675-89b5-4d97-aaec-5b1ad844711e)
 
 
 THIS IS A FREE PYTHON SCRIPT FOR
@@ -16,7 +16,7 @@ BANNING INSTAGRAM ACCOUNTS
 
 IF YOU HAVE A DEAL OR RELATED TO INSTAGRAM 
 
-MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE > https://t.me/krishnasachan
 
 # USAGE
 
@@ -32,7 +32,7 @@ THESE ARE JUST THE THINGS YOU NEED IN THE MODIFICATION OF THIS PYTHON SCRIPT FOR
 
 FEEL FREE TO MESSAGE ME FOR A FREE GUIDE
 
-MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
+MESSAGE > https://t.me/krishnasachan
 
 
 # LEGAL DISCLAIMER
