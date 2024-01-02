@@ -61,4 +61,5 @@ intagram bulk reports
 instagram bulk report tool
 how to delete instagram accounts
 instagram banning tool
+insta auto reporter
 
